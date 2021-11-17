@@ -1,0 +1,29 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3463f3f1-50fc-bffa-b9f3-4b740bf5fd2c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Physics I: Classical Mechanics",
+  "course_description": "8.01L is an introductory mechanics course, which covers all the topics covered in 8.01T. The class meets throughout the fall, and continues throughout the Independent Activities Period (IAP).\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.01L",
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
